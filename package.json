@@ -1,0 +1,14 @@
+{
+  "name": "react-native-notification-center",
+  "version": "0.0.1",
+  "description": "Notification center for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Junjun Deng",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">= 0.17.0"
+  }
+}
