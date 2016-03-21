@@ -21,3 +21,7 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+ext.libraries = [
+        'react-native': "com.facebook.react:react-native:0.17.+"
+]
