@@ -1,4 +1,4 @@
-package rewen.co.rnnotificationcenter;
+package co.rewen.react.notification;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
