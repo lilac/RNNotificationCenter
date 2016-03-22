@@ -13,7 +13,7 @@ import com.facebook.react.bridge.ReactMethod;
  * All rights reserved.
  */
 public class NotificationModule extends ReactContextBaseJavaModule {
-    private static final String ACTION_STATE_CHANGED = "co.rewen.intent.action.STATE_CHANGED";
+    public static final String ACTION_STATE_CHANGED = "co.rewen.intent.action.STATE_CHANGED";
     private LocalBroadcastManager localBroadcastManager;
 
     public NotificationModule(ReactApplicationContext reactContext) {
